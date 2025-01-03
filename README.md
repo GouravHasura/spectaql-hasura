@@ -62,5 +62,3 @@ This command will generate and serve the documentation locally, allowing you to 
 - [GraphQL Introspection](https://graphql.org/learn/introspection/)
 
 ---
-
-Happy Documenting!
