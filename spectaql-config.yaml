@@ -1,0 +1,17 @@
+spectaql:
+  logoFile: ./logo.svg
+
+introspection:
+  url: 'REPLACE_WITH_YOUR_GRAPHQL_ENDPOINT'
+  headers:
+     x-hasura-admin-secret: 'REPLACE_WITH_YOUR_API_KEY'
+
+info:
+  title: test-hasura
+  description:
+    'spectaql-test-hasura'
+
+servers:
+  - url: 'REPLACE_WITH_YOUR_GRAPHQL_ENDPOINT'
+    description: Production
+    production: true
